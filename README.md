@@ -1,3 +1,3 @@
 releases
 ========
-This repoistory holds the compiled binary releases
+This repository holds the compiled binary releases
